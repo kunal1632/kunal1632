@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/kunal1632"> 
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code%C2%A2er=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code%C2%A2er=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <br/>
